@@ -1,6 +1,6 @@
 # Comparing Fine-Tuning Methods for Instruction-Tuning Small Language Models
 
-Code and results for the paper **"A Comparative Study of Fine-Tuning Methods for Instruction-Tuning Small Language Models"** (Pragati Manandhar, Rafiullah Omar, Henry Muccini, et al.).
+Code and results for the paper **"A Comparative Study of Fine-Tuning Methods for Instruction-Tuning Small Language Models"** 
 
 We compare **full fine-tuning (FFT)** with four parameter-efficient methods: **LoRA, DoRA, QLoRA and Prompt Tuning**. The comparison covers three small language models and three instruction datasets (45 runs). For each run we record benchmark accuracy, training time, evaluation time and estimated energy.
 
