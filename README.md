@@ -180,16 +180,6 @@ Key findings:
 
 ---
 
-## Citation
-
-```bibtex
-@misc{manandhar2026finetuning,
-  title  = {A Comparative Study of Fine-Tuning Methods for Instruction-Tuning Small Language Models},
-  author = {Manandhar, Pragati and Omar, Rafiullah and Muccini, Henry and others},
-  year   = {2026}
-}
-```
-
 ## Acknowledgements
 
 Built with [PyTorch](https://pytorch.org), [Transformers](https://github.com/huggingface/transformers), [TRL](https://github.com/huggingface/trl), [PEFT](https://github.com/huggingface/peft), [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes), [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) and [CodeCarbon](https://github.com/mlco2/codecarbon).
